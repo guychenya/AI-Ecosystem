@@ -1,0 +1,71 @@
+title: AI Ecosystem
+description: A comprehensive collection of AI use cases, tools, and resources for building intelligent applications
+baseurl: "/AI-Ecosystem"
+url: "https://guychenya.github.io"
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Author
+author:
+  name: Guy Chenya
+  email: your.email@example.com
+
+# Social
+github_username: guychenya
+
+# Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  use_cases:
+    output: true
+    permalink: /:collection/:name/
+  tutorials:
+    output: true
+    permalink: /:collection/:name/
+  examples:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "use_cases"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "examples"
+    values:
+      layout: "page"
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .github
+  - package.json
+  - requirements.txt
+

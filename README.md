@@ -1,3 +1,8 @@
+---
+layout: home
+title: AI Ecosystem
+---
+
 # 🤖 AI Ecosystem
 
 Welcome to the **AI Ecosystem** - a comprehensive collection of AI use cases, tools, and resources for building intelligent applications.
