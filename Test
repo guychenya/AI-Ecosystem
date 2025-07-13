@@ -1,0 +1,20 @@
+# Test Results
+
+## Test Strategy
+- Manual exploratory testing of UI/UX.
+- Automated build and deployment checks via GitHub Actions.
+- Linting and code quality checks.
+
+## Coverage
+- All core components and major user flows tested manually.
+- Static analysis for code and style consistency.
+
+## Recent Test Runs
+- All workflows (build, deploy) passing as of last update.
+- UI tested on latest Chrome, Firefox, Safari, and mobile browsers.
+
+## Issues Found
+- No critical bugs reported.
+- Minor layout issues on legacy browsers (documented for future fix).
+
+---

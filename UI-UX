@@ -1,0 +1,21 @@
+# UI/UX Design
+
+## Design Principles
+- Mobile-first, responsive layout.
+- Clear, accessible navigation.
+- Visual storytelling with mind maps and metrics.
+
+## Main Screens & Components
+- Hero Section: Landing, stats, call-to-action.
+- AI Ecosystem Overview: Mind map visualization.
+- Use Cases & Workflows: Step-by-step breakdowns.
+- Real-World Projects: Cards with metrics and details.
+- Infrastructure & Deployment: Platform and DevOps visuals.
+
+## User Flows
+- Visitor lands on home → explores sections via navigation → drills into use cases/projects → views details in modals or expanded views.
+
+## Wireframes/Mockups
+_Include wireframes or link to Figma/Sketch prototypes here if available._
+
+---

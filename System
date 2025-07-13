@@ -1,0 +1,19 @@
+# System Architecture
+
+## High-Level Overview
+A single-page React application, driven by structured JSON data and interactive visualizations, deployed as a static site.
+
+## Components / Services
+- React frontend, responsible for all UI rendering and navigation.
+- Static JSON data stores for use cases and projects.
+- Visualization libraries for charts and mind maps.
+- Jekyll/GitHub Pages for deployment (via GitHub Actions).
+
+## Data Flow
+- User loads site → React components fetch and render JSON data (use cases, projects) → UI updates with interactive elements.
+- Navigation and modals managed client-side.
+
+## Architecture Diagrams
+_Add diagrams here if available (e.g., mind map, component diagram, data flow chart)._
+
+---

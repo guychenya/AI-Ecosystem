@@ -1,0 +1,20 @@
+# Project Brief
+
+## Project Summary
+AI Ecosystem Expertise Showcase is a React web application designed to present AI infrastructure knowledge, practical use cases, and real-world project implementations. It integrates interactive elements, a modern tech stack, and visually rich content for technical and business audiences.
+
+## Background
+With the rapid expansion of AI technologies, showcasing expertise in the ecosystem and real-world deployments has become crucial. This project serves as a comprehensive portfolio, leveraging mind maps and real project data.
+
+## Objectives
+- Build a single-page, interactive portfolio site.
+- Integrate NotebookLM mind map visualization.
+- Demonstrate hands-on use cases, workflows, and infrastructure.
+
+## Timeline
+- Planning & requirements: Week 1
+- Core implementation: Weeks 2-3
+- Data integration: Week 4
+- Deployment & polish: Week 5
+
+---

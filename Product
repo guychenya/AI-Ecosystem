@@ -1,0 +1,32 @@
+# Product Requirements
+
+## Overview
+A comprehensive React-based website showcasing AI ecosystem expertise, infrastructure knowledge, and real-world implementations, based on NotebookLM mind map analysis.
+
+## Goals
+- Demonstrate familiarity with the AI ecosystem and related technologies.
+- Highlight production-ready AI solutions and workflows.
+- Provide an interactive, visually engaging user experience.
+
+## Functional Requirements
+- Interactive landing page (Hero Section).
+- AI Ecosystem Overview with NotebookLM mind map integration.
+- Use Cases & Workflows with JSON-based workflows.
+- Real-World Projects showcase with metrics.
+- Infrastructure & Deployment details.
+- Technical expertise and technology stack summary.
+- Responsive design and smooth navigation.
+
+## Non-Functional Requirements
+- Mobile-first, responsive UI.
+- Fast build and development workflow (Vite, pnpm).
+- Accessibility and cross-browser compatibility.
+- Secure deployment and data handling.
+
+## Stakeholders
+- AI engineers
+- Data scientists
+- Technical managers
+- Prospective employers/clients
+
+---
